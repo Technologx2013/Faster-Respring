@@ -1,0 +1,12 @@
+Package: net.death.fasterrespring
+Name: Faster Respring
+Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Description: Respring your device quickly no SBSettings, FlipSwitch, or IntelliScreenX!
+Maintainer: D3@TH <deathsrepo@gmail.com>
+Author: D3@TH <deathsrepo@gmail.com>
+Section: Utilities
+Icon: file:///Applications/FasterResrping.app/Icon.png
+Depiction: http://deathsrepo.cu.cc/info/fasterrespring.php
+Version: 1.0-1
+Installed-Size: 416
